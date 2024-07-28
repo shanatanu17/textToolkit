@@ -1,0 +1,10 @@
+.accordion-button::after{
+
+    filter:invert(1)
+}
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    /* background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important; */
+    background-color: #9e9e9e;
+}
